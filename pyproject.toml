@@ -11,6 +11,8 @@ django = "^5.0.6"
 djangorestframework = "^3.15.1"
 psycopg = {extras = ["binary"], version = "^3.1.19"}
 python-dotenv = "^1.0.1"
+markdown = "^3.6"
+django-filter = "^24.2"
 
 
 [build-system]
